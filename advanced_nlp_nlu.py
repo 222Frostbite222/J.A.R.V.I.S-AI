@@ -4,7 +4,7 @@ import openai
 import json
 
 # Define OpenAI API Key here
-API_KEY = "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"
+API_KEY = "YOUR API KEY"
 
 # Initialize OpenAI API
 openai.api_key = API_KEY
